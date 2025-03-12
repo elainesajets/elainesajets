@@ -11,9 +11,13 @@ Let's connect!
 &nbsp;
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css&theme=light)](https://skillicons.dev)
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,html,css" />
+  </a>
+</p>
 
 <!--
 **elainesajets/elainesajets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
