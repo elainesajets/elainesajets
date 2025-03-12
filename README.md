@@ -5,8 +5,12 @@ I'm currently learning web development through The Odin Project. I'm currently 9
 I have a master’s degree in Information Systems and originally started my career in project management. While I had a great experience—especially at my first company—I’ve discovered a passion for programming and am now transitioning into web development.
 
 Let's connect! 
+
+
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](www.linkedin.com/in/elaine-sajets)
 &nbsp;
+
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 
