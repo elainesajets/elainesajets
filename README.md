@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently learning web development through The Odin Project. I'm currently 93% done with the Foundations course and will soon start the Full Stack Javascript path. 
+<div align="center">I'm currently learning web development through The Odin Project. I'm currently 93% done with the Foundations course and will soon start the Full Stack Javascript path. 
 
 I have a master’s degree in Information Systems and originally started my career in project management. While I had a great experience—especially at my first company—I’ve discovered a passion for programming and am now transitioning into web development.
 
@@ -11,14 +11,12 @@ Let's connect!
 &nbsp;
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css&theme=light)](https://skillicons.dev)
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,js,html,css" />
   </a>
 </p>
-
+</div>
 <!--
 **elainesajets/elainesajets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
