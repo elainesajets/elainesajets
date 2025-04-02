@@ -2,7 +2,7 @@
 
   ## Hello!
 
-I'm currently learning web development through The Odin Project's Fullstack Javascript path.<br>
+I'm currently learning web development through The Odin Project's [Fullstack Javascript path](https://www.theodinproject.com/paths/full-stack-javascript).<br>
 <br>
 Let's connect! 
 
