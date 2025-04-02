@@ -2,8 +2,7 @@
 
   ## Hello!
 
-I'm currently learning web development through The Odin Project and i'm 93% done with the Foundations course. <br>
-After the Foundation course, I'll continue on the Fullstack Javascript path.<br>
+I'm currently learning web development through The Odin Project's Fullstack Javascript path.<br>
 <br>
 Let's connect! 
 
