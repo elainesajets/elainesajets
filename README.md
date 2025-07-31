@@ -7,9 +7,7 @@ I'm Elaine Sajets and I'm currently learning game development through Unity's Ju
 Let's connect! 
 
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](www.linkedin.com/in/elaine-sajets)
-&nbsp;
-<br>
+[![LinkedIn](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/elaine-sajets)<br>
 <br>
 <br>
 <p align="center">
