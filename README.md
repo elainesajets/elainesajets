@@ -2,7 +2,7 @@
 
   ## Hello!
 
-I'm Elaine Sajets and I'm currently learning web development through The Odin Project's [Fullstack Javascript path](https://www.theodinproject.com/paths/full-stack-javascript).<br>
+I'm Elaine Sajets and I'm currently learning game development through Unity's Junior Programmer pathway!<br>
 <br>
 Let's connect! 
 
