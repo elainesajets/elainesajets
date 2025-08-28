@@ -1,20 +1,26 @@
 <div align="center">
 
-  ## Hello!
+# Hello, I’m Elaine 👋
 
-I'm Elaine Sajets and I'm currently learning game development through Unity's Junior Programmer pathway!<br>
-<br>
-Let's connect! 
+I’m currently transitioning into game development, focusing on **Unity and C#**.  
+I’m working through Unity’s Junior Programmer pathway and building small prototypes as I go.  
 
+Alongside Unity, I’ve also learned the basics of **JavaScript, HTML, and CSS**, and I enjoy experimenting with different technologies to understand how games and interactive experiences are built.  
 
-[![LinkedIn](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/elaine-sajets)<br>
-<br>
+🌱 **Currently learning:** Unity • C# • JavaScript • HTML • CSS (using Git/Github for projects)  
+🎮 **Interests:** Game design, player progression & balance, and how games bring people together  
+📍 Norwegian, currently based in South Korea  
+
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,cs,unity" />
   </a>
 </p>
+
+---
+
+📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/elaine-sajets)  <br>
 </div>
 <!--
 **elainesajets/elainesajets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
