@@ -14,7 +14,7 @@ Alongside Unity, I’ve also learned the basics of **JavaScript, HTML, and CSS**
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,cs,unity" />
+    <img src="https://skillicons.dev/icons?i=cs,unity,js,html,css" />
   </a>
 </p>
 
