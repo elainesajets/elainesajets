@@ -8,7 +8,7 @@ I’m working through Unity’s Junior Programmer pathway and building small pro
 Alongside Unity, I’ve also learned the basics of **JavaScript, HTML, and CSS**, and I enjoy experimenting with different technologies to understand how games and interactive experiences are built.  
 
 🌱 **Currently learning:** Unity • C# • JavaScript • HTML • CSS (using Git/Github for projects)  
-🎮 **Interests:** Game development and game design
+🎮 **Interests:** Game development and game design  
 📍 Norwegian, currently based in South Korea  
 
 <br>
