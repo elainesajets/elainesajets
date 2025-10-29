@@ -2,8 +2,8 @@
 
 # Hello, I’m Elaine 👋
 
-I’m currently transitioning into game development, focusing on **Unity and C#**.  
-I’m working through Unity’s Junior Programmer pathway and building small prototypes as I go.  
+I’m currently learning game development, focusing on **Unity and C#**. Also planning on learning Game Maker.
+I've recently completed Unity's Junior Programmer pathway and continuing my learning journey with GameDev and their Unity courses.
 
 Alongside Unity, I’ve also learned the basics of **JavaScript, HTML, and CSS**, and I enjoy experimenting with different technologies to understand how games and interactive experiences are built.  
 
