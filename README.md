@@ -2,7 +2,8 @@
 
 # Hello, I’m Elaine 👋
 
-I’m currently learning game development, focusing on **Unity and C#**. Also planning on learning Game Maker.
+I’m currently learning game development, focusing on **Unity and C#**. Also planning on learning more about .NET and 2D game development in Game Maker.  
+
 I've recently completed Unity's Junior Programmer pathway and continuing my learning journey with GameDev and their Unity courses.
 
 Alongside Unity, I’ve also learned the basics of **JavaScript, HTML, and CSS**, and I enjoy experimenting with different technologies to understand how games and interactive experiences are built.  
